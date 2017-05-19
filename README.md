@@ -30,7 +30,7 @@
     
     <body>
         <h1>The Beginning</h1>
-        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png"one of the many different versions of the makerbot printer
+        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png"one of the many different versions of the makerbot printer>
       
         
         <p>The start of the company was in January of 2009. </p>
