@@ -35,11 +35,10 @@
         
         <p>The start of the company was in January of 2009. </p>
         
-        <img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png"alt="bright rainbow colored birds" width="280">
-        
+       
         <li class= "lists">the weather
         <li class= "lists">if you are an american you won't have to change currency<li class= "lists">the beaches are amazing <li class= "lists"> there are multiple island getaways becasue of all the little islands</li>
-        <img src="https://www.kasandbox.org/programming-images/food/fruits.png"alt= "fruits in a basket" width="300" >
+       
         <h3>the food</h3>
         
         <p class= "p">the foods are amazing they are ..</p> <li class= "lists"> pineapple<li class= "lists"> fresh seafood<li class= "lists">coconuts</li> 
