@@ -10,7 +10,8 @@
             .lists {
                 color:rgb(230, 46, 0);
             }
-            
+             h2 {color:rgb(230,46,0);
+            }
             body {
                 background-color:rgb(0, 0, 0);
             }
@@ -20,7 +21,7 @@
             .p {
                 color:rgb(230, 46, 0);
             }
-            
+           
             p {
             color:rgb(230, 46, 0);
             }
@@ -30,10 +31,11 @@
             }
             
         </style>
-        <h1> Makerbot Printers<h1>
+        
     </head>
     
     <body>
+        <h1> Makerbot Printers<h1>
         
         <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="200">
        <h2>The Beginning</h2>
