@@ -30,10 +30,11 @@
     
     <body>
         <h1>The Beginning</h1>
-        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png"one of the many different versions of the makerbot printer>
+        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png">
+       
       
         
-        <p>The start of the company was in January of 2009. </p>
+        <p>The start of the company was in January of 2009. there first printer was called the Cupcake CNC. makerbot was one of the first company to make 3-d printing accesible to the public for affordable prices.  </p>
         
        
         <li class= "lists">the weather
