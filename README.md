@@ -26,19 +26,14 @@
             }
             
             
-              .info {
-                background: rgb(219, 235, 255);              width:70%;
-                height:200px;
-                overflow-y:auto
-                ;
-                overflow-x:hidden;
+            
         </style>
         
     </head>
     
     <body>
         
-        <img class="info" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
+        <img  src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
        <h1>The Beginning</h1>
       
         
