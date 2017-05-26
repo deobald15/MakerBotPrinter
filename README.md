@@ -26,7 +26,7 @@
             }
             
             .pic {
-            width:70%;
+            width:50%;
             }
             
         </style>
