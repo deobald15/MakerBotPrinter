@@ -24,14 +24,22 @@
             p {
             color:rgb(63,240,19);
             }
+            
+            
+              .info {
+                background: rgb(219, 235, 255);              width:70%;
+                height:200px;
+                overflow-y:auto
+                ;
+                overflow-x:hidden;
         </style>
         
     </head>
     
     <body>
-        <h1>The Beginning</h1>
-        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
-       
+        
+        <img class="info"src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
+       <h1>The Beginning</h1>
       
         
         <p>The start of the company was in January of 2009. there first printer was called the Cupcake CNC. makerbot was one of the first company to make 3-d printing accesible to the public for affordable prices.  </p>
