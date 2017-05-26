@@ -8,7 +8,7 @@
             { color:rgb(0, 123, 26);
             }
             .lists {
-                color:rgb(63, 240, 205);
+                color:rgb(20, 216, 255);
             }
             
             body {
