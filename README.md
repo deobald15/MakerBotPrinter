@@ -41,12 +41,23 @@
        <h2>The Beginning</h2>
       
         
-        <p>The start of the company was in January of 2009. there first printer was called the Cupcake CNC. makerbot was one of the first company to make 3-d printing accesible to the public for affordable prices.  </p>
+        <p>The start of the company was in January of 2009. Their first printer was called the Cupcake CNC. Makerbot was one of the first company to make 3-D printing accesible to the public for affordable prices.  </p>
         
        <h2>Types of Printers</h2>
-       
+       <li class= "lists"> Cupckae CNC
+       <li class= "lists"> Thing-O-Matic
         <li class= "lists">Replicator 
-        <li class= "lists">Replicator+ <li class= "lists"> Replicator Mini<li class= "lists">Replicator Mini+<li class= "lists">Replicator Z18<li class= "lists">Replicator 2X</li>
+        <li class= "lists"> Replicator 2 Desktop Printer
+        <li class= "lists"> Replicator 2X Experimental 3D Printer
+        <li class= "lists">Replicator 2X Experimental 3D Printer
+         <li class= "lists">Digitizer Desktop 3D Scanner
+        <li class= "lists">5th Generation Replicator Desktop 3D Printer
+        <li class= "lists">Replicator Mini Compact 3D Printer
+        <li class= "lists">Replicator Z18 3D Printer
+        <li class= "lists">MakerBot Innovation Center
+        
+
+        </li>
        
         <h2>Their Mission/Goal</h2>
         
