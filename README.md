@@ -12,7 +12,7 @@
             }
             
             body {
-                background-color:rgb(19, 94, 135);
+                background-color:rgb(20, 216, 255);
             }
             
             h3 { color:rgb(221, 9, 240);
