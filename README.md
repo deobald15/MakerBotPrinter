@@ -36,17 +36,17 @@
     <body>
         
         <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="200">
-       <h1>The Beginning</h1>
+       <h2>The Beginning</h2>
       
         
         <p>The start of the company was in January of 2009. there first printer was called the Cupcake CNC. makerbot was one of the first company to make 3-d printing accesible to the public for affordable prices.  </p>
         
-       <h1>Types of Printers</h1>
+       <h2>Types of Printers</h2>
        
         <li class= "lists">the weather
         <li class= "lists">if you are an american you won't have to change currency<li class= "lists">the beaches are amazing <li class= "lists"> there are multiple island getaways becasue of all the little islands</li>
        
-        <h3>Their Mission/Goal</h3>
+        <h2>Their Mission/Goal</h2>
         
         <p class= "p">the foods are amazing they are ..</p> <li class= "lists"> pineapple<li class= "lists"> fresh seafood<li class= "lists">coconuts</li> 
         
