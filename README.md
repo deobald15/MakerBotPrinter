@@ -5,10 +5,10 @@
         <title>Maker Bot printers</title>
          <style>
             h1 
-            { color:rgb(230, 46, 0);
+            { color:rgb(0, 0, 0);
             }
             .lists {
-                color:rgb(230, 46, 0);
+                color:rgb(0, 0, 0);
             }
             
             body {
@@ -22,7 +22,7 @@
             }
             
             p {
-            color:rgb(230, 46, 0);
+            color:rgb(0, 0, 0);
             }
             
             .pic {
