@@ -5,24 +5,24 @@
         <title>Maker Bot printers</title>
          <style>
             h1 
-            { color:rgb(0, 123, 26);
+            { color:rgb(230, 46, 0);
             }
             .lists {
-                color:rgb(20, 216, 255);
+                color:rgb(230, 46, 0);
             }
             
             body {
-                background-color:rgb(20, 216, 255);
+                background-color:rgb(0, 0, 0);
             }
             
-            h3 { color:rgb(221, 9, 240);
+            h3 { color:rgb(230, 46, 0);
             }
             .p {
-                color:rgb(63, 240, 19);
+                color:rgb(230, 46, 0);
             }
             
             p {
-            color:rgb(63,240,19);
+            color:rgb(230, 46, 0);
             }
             
             .pic {
