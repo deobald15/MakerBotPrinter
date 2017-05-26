@@ -35,7 +35,7 @@
     
     <body>
         
-        <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
+        <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="250">
        <h1>The Beginning</h1>
       
         
