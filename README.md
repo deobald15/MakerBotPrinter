@@ -45,8 +45,8 @@
         
        <h2>Types of Printers</h2>
        
-        <li class= "lists">the weather
-        <li class= "lists">if you are an american you won't have to change currency<li class= "lists">the beaches are amazing <li class= "lists"> there are multiple island getaways becasue of all the little islands</li>
+        <li class= "lists">Replicator 
+        <li class= "lists">Replicator+ <li class= "lists"> Replicator Mini<li class= "lists">Replicator Mini+<li class= "lists">Replicator Z18<li class= "lists">Replicator 2X</li>
        
         <h2>Their Mission/Goal</h2>
         
