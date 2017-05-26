@@ -30,7 +30,7 @@
     
     <body>
         <h1>The Beginning</h1>
-        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="245">
+        <img src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="100">
        
       
         
