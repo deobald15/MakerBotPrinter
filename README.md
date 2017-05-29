@@ -14,8 +14,7 @@
             }
             body {
                 background-color:rgb(0, 0, 0);
-                background-image:url(https://cdn-shop.adafruit.com/1200x900/2060-00.jpg);\
-                background-size: 100%;
+               
             }
             
             h3 { color:rgb(230, 46, 0);
