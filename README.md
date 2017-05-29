@@ -69,7 +69,7 @@
        
         <h2>Their Mission/Goal</h2>
         
-        <p class= "p">MakerBot believes there's an innovator in everyone. As a global leader in desktop 3D printing, we set the standard in reliability and ease-of-use by providing effective solutions for every stage of the desktop 3D printing process. From the start, we have also redefined what's possible for makers of all walks by introducing many industry firsts.</p> 
+        <p class= "p">MakerBot believes there's an innovator in everyone. As a global leader in desktop 3D printing, we set the standard in reliability and ease-of-use by providing effective solutions for every stage of the desktop 3D printing process. From the start, we have also redefined what's possible for makers of all walks by introducing many industry firsts.<br> -MakerBot Staff</p> 
        <h2></h2>
         <p class= "p">The foods are amazing as they are caught and grown all year.<br> there is always ripe fruits. If you go   </p>
         
