@@ -28,6 +28,8 @@
             
             .pic {
             width:50%;
+            border: color:rgb(230,46,0);
+            border-width:50%;
             }
             alt {
             color:rbg(230,46,0);
