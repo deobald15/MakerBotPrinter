@@ -47,7 +47,8 @@
         
         <p>The start of the company was in January of 2009. Their first printer was called the Cupcake CNC. Makerbot was one of the first company to make 3-D printing accesible to the public for affordable prices.  </p>
         
-        <img class="pic" src="http://inhabitat.com/greenholidaygiftguide/wp-content/blogs.dir/11/files/2009/11/cupcake2.jpg"  alt="The very first MakerBot printer."width="200">
+           <img class="pic" src="http://inhabitat.com/greenholidaygiftguide/wp-content/blogs.dir/11/files/2009/11/cupcake2.jpg" alt="The very first MakerBot printer." width="200">
+  
        <h2>Types of Printers</h2>
        <li class= "lists"> Cupckae CNC
        <li class= "lists"> Thing-O-Matic
