@@ -29,7 +29,11 @@
             .pic {
             width:50%;
             }
+            alt {
+            color:rbg(230,46,0);
             
+            
+            }
         </style>
         
     </head>
@@ -37,13 +41,13 @@
     <body>
         <h1> Makerbot Printers<h1>
         
-        <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" width="200">
+        <img class="pic" src="http://proto3000.com/assets/uploads/Images/ProductImages/MB05_REP_01B_Hero.png" alt="This is one of the more modern printers." width="200">
        <h2>The Beginning</h2>
       
         
         <p>The start of the company was in January of 2009. Their first printer was called the Cupcake CNC. Makerbot was one of the first company to make 3-D printing accesible to the public for affordable prices.  </p>
         
-        <img class="pic" src="http://inhabitat.com/greenholidaygiftguide/wp-content/blogs.dir/11/files/2009/11/cupcake2.jpg" width="200">
+        <img class="pic" src="http://inhabitat.com/greenholidaygiftguide/wp-content/blogs.dir/11/files/2009/11/cupcake2.jpg"  alt="The very first MakerBot printer."width="200">
        <h2>Types of Printers</h2>
        <li class= "lists"> Cupckae CNC
        <li class= "lists"> Thing-O-Matic
