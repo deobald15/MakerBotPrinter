@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -88,5 +89,4 @@ In April 2015, it was reported that in an effort to integrate MakerBot's activit
         
         
         </body>
- 
         </html>
